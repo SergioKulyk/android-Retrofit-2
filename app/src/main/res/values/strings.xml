@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Retrofit#2</string>
+    <string name="email">sergiokulyk98@gmail.com</string>
+    <string name="name">Name</string>
+    <string name="age">19</string>
+    <string name="topics">Football, Voleyball</string>
+    <string name="button">Registrate</string>
 </resources>
